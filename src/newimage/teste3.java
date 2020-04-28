@@ -35,18 +35,18 @@ public class teste3 {
          System.out.println("Type the percentage of image brightness: ");
          int percent = input.nextInt();
          
-          for(int i=0;i<pixels.length;i+=3){
-             int mp = (pixels[i]+pixels[i+1]+pixels[i+2])/3;
-             int limiar = (mp*percent)/100;
+          for(int i=0; i<pixels.length; i+=3){
+             int mp = (int) (((pixels[i]*0.30) + (pixels[i+1]*0.59) + (pixels[i+2]*0.11)) /3);
+             int limiar = mp+((mp*percent)/100);
              
-             if(limiar + mp >= 255) {
-                  pixels[i]=255;
-                  pixels[i+1]=255;
-                  pixels[i+2]=255;
-             } else {
+             if(mp<=limiar) {
                   pixels[i]=limiar;
                   pixels[i+1]=limiar;
                   pixels[i+2]=limiar;
+             } else {
+                  pixels[i]=255;
+                  pixels[i+1]=255;
+                  pixels[i+2]=255;
              }
           }
           
