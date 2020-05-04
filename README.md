@@ -1,8 +1,8 @@
 <h1 align="center">
-Flags
+Data processing
 </h1>
 
-<p align="center">This is an algorithm to create some pixelated flag and star of David in Java.</p>
+<p align="center">This is an algorithm to transform a darker image lighter in Java.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
