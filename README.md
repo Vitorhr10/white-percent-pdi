@@ -11,8 +11,7 @@ Data processing
 </p>
 
 <div>
-  <img src="./src/assets/Bandeira_Bélgica.png" alt="Belgium Flag">
-  <img src="./src/assets/Estrela_de_Davi.png" alt="Star of David">
+  <img src="./google.png" alt="Google percent">
 </div>
 
 <hr />
@@ -20,7 +19,7 @@ Data processing
 ## Getting started
 
 1. Clone this repo using `git clone git@github.com:Vitorhr10/white-percent-pdi.git`
-2. Move yourself to the appropriate directory: `cd Bandeiras`
+2. Move yourself to the appropriate directory: `cd newImage`
 3. Open this project in Netbeans IDE
 4. Run `execut the file`
 5. Type a number to generate a flag
