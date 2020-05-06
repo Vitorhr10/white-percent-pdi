@@ -11,7 +11,7 @@ Data processing
 </p>
 
 <div>
-  <img src="./google.png" alt="Google percent">
+  <img src="google.png" alt="Google percent">
 </div>
 
 <hr />
@@ -22,8 +22,7 @@ Data processing
 2. Move yourself to the appropriate directory: `cd newImage`
 3. Open this project in Netbeans IDE
 4. Run `execut the file`
-5. Type a number to generate a flag
-6. Go to `assets` to see the flag
+5. White percent image created
 
 ## License
 
