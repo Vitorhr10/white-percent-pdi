@@ -2,7 +2,7 @@
 Data processing
 </h1>
 
-<p align="center">This is an algorithm to transform a darker image lighter in Java.</p>
+<p align="center">This is an algorithm to transform a darker image lighter in Java language.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -11,7 +11,8 @@ Data processing
 </p>
 
 <div>
-  <img src="google.png" alt="Google percent">
+  <img src="google.jpg" alt="Google">
+  <img src="whitePercent.jpg" alt="Google percent">
 </div>
 
 <hr />
