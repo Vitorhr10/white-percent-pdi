@@ -12,6 +12,7 @@ Data processing
 
 <div>
   <img src="google.jpg" alt="Google">
+  <p align="center">Image created</p>
   <img src="whitePercent.jpg" alt="Google percent">
 </div>
 
