@@ -25,7 +25,6 @@ Data processing
 3. Open this project in Netbeans IDE
 4. Run `execut the file`
 5. White percent image created
-6. Done
 
 ## License
 
