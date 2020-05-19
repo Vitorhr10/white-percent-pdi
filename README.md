@@ -24,7 +24,7 @@ Data processing
 2. Move yourself to the appropriate directory: `cd newImage`
 3. Open this project in Netbeans IDE
 4. Run `execut the file`
-5. White percent image created
+5. Image created
 
 ## License
 
